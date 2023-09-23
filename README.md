@@ -1,7 +1,17 @@
-# Testuj.to Assignment - hubmatyas@gmail.com
+# Dr. Max Assignment - hubmatyas@gmail.com
 
 - [LIVE BUILD HERE](https://hubma-drmax-assignment.web.app) hosted on firebase
 - **Time to finish**: 2.5 hrs
+
+## Spuštění
+
+```sh
+yarn install
+```
+
+```sh
+yarn dev
+```
 
 ## Popis projektu
 
