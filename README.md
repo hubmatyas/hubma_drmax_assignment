@@ -30,5 +30,4 @@ Výpis top 100 článků z hacker news api. Napsáno ve Vue.js SPA, s pomocí ax
 - lepší layout, takhle to působí trochu chaoticky
 - srozumitelně zobrazit datum - dd:mm:yyyy, hh:mm (24hod)
 - přidat možnost zobrazit podle datumu
-- responsivita - must have, tady v zadání jde ale spíše o manipulaci s daty
 - více mě teď nenapadá, vás ale určitě ano, tak mi to můžete potom povědět :-)

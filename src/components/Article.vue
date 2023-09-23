@@ -116,4 +116,10 @@ export default defineComponent({
   line-height: 1.5;
   font-weight: 700;
 }
+@media only screen and (max-width: 660px) {
+  .article {
+    padding: 1.4rem 1.8rem;
+    font-size: 0.8em;
+  }
+}
 </style>

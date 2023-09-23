@@ -33,6 +33,7 @@ a, a:visited {
   width: 100%;
   max-width: 130rem;
   margin: 0 auto;
+  padding: 0 3.2rem;
 }
 
 section {
@@ -41,4 +42,22 @@ section {
 
 ul li {
   list-style: none;
+}
+
+@media only screen and (max-width: 460px) {
+  .wrapper {
+    padding: 0 2.4rem;
+  }
+  section {
+    margin: 4.6rem 0;
+  }
+  body {
+    padding-top: 3.2rem;
+    padding-bottom: 6.4rem;
+  }
+}
+@media only screen and (max-width: 360px) {
+  .wrapper {
+    padding: 0 1.8rem;
+  }
 }

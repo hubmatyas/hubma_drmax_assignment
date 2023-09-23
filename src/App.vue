@@ -55,4 +55,15 @@ onMounted(fetchTopStories);
   font-size: 4.6rem;
   font-weight: 700;
 }
+
+@media only screen and (max-width: 660px) {
+  .title {
+    font-size: 3.2rem;
+  }
+}
+@media only screen and (max-width: 660px) {
+  .title {
+    font-size: 1.5em;
+  }
+}
 </style>

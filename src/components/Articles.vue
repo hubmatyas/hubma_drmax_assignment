@@ -39,4 +39,16 @@ export default defineComponent({
   justify-content: stretch;
   gap: 3rem;
 }
+
+@media only screen and (max-width: 960px) {
+  .article-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 2rem;
+  }
+}
+@media only screen and (max-width: 560px) {
+  .article-list {
+    grid-template-columns: 1fr;
+  }
+}
 </style>
